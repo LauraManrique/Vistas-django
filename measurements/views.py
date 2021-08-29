@@ -34,7 +34,6 @@ def actualizarMedida(request, id_medida):
 
 def eliminar(request, id_medida):
     medida= get_measurement_pk(id_medida)
-   
     medida.delete()
     html= '<html><body> "Eliminado exitosamente"  </body> <html '
     return HttpResponse(html)
