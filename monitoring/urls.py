@@ -13,9 +13,22 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+from measurements.models import Measurement
 from django.contrib import admin
 from django.urls import path
+from django.urls.conf import include, include
+
+import measurements
+from . import views
+from measurements import views as v
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('home/', views.home, name="home"),
+    path('variables/', include('variables.urls')),
+    path('measurements/', include('measurements.urls')),
+    path('measurements/<llave>', v.get_measurement),
+    path('measurements/<id_medida>/edit', v.edit),
+    path('measurements/<id_medida>/actualizar', v.actualizarMedida, name='actualizarMedida'),
+    path('measurements/<id_medida>/delete', v.eliminar),
 ]

@@ -1,0 +1,21 @@
+{% load crispy_forms_tags %}
+{% block content %}
+    {%if form.errors %}
+        <div class="alert alert-danger" role="alert">
+            Esto es una alerta
+        </div>
+    {% endif %}
+
+    <form action="actualizar" method="POST">
+        {% csrf_token %}
+        {% if mensaje %}
+            <div class="alert alert-success" role="alert">
+            Registro exitoso
+            </div>
+        {% endif %}
+        {{ form | crispy}}
+        <input type="submit" value="Submit">
+    </form>
+
+{% endblock %}
+
