@@ -2,7 +2,7 @@
 Taller 3, vistas django Arquisoft
 
 · Consultar la lista de medidas (measurements) en formato JSON <br>
-<img src="https://user-images.githubusercontent.com/42646377/131240689-4c4796e0-b0a5-4055-976e-527ca3b41104.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/42646377/131240689-4c4796e0-b0a5-4055-976e-527ca3b41104.png" width="50%"></img> 
 
 · Consultar una medida en formato JSON dado su identificador <br>
 <img src="https://user-images.githubusercontent.com/42646377/131240747-254fdeba-4c7e-4bde-94e0-a71fe7c58418.png" width="15%"></img> 
