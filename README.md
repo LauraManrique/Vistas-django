@@ -31,4 +31,4 @@ Taller 3, vistas django Arquisoft
     <img src="https://user-images.githubusercontent.com/42646377/131241007-6d4ec680-3a96-40d0-b783-ac0f2c12a6e9.png" width="15%"></img> 
     
     Lista de medidas final
-    <img src="https://user-images.githubusercontent.com/42646377/131241048-fc6f05b1-9b6a-4c6c-b983-b174a9c83c42.png" width="15%"></img> 
+     <img src="https://user-images.githubusercontent.com/42646377/131241048-fc6f05b1-9b6a-4c6c-b983-b174a9c83c42.png" width="15%"></img> 
