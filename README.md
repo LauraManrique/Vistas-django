@@ -8,8 +8,8 @@ Taller 3, vistas django Arquisoft
 <img src="https://user-images.githubusercontent.com/42646377/131240747-254fdeba-4c7e-4bde-94e0-a71fe7c58418.png" width="15%"></img> 
 
 · Borrar una medida dado su identificador 
-    Lista de medidas actuales <br>
-    <img src="https://user-images.githubusercontent.com/42646377/131240784-09a75a8c-b7ce-41bf-b48f-08b121daba14.png" width="15%"></img> 
+ Lista de medidas actuales <br>
+ <img src="https://user-images.githubusercontent.com/42646377/131240784-09a75a8c-b7ce-41bf-b48f-08b121daba14.png" width="15%"></img> 
     
     Eliminar la de la pk=9 <br>
     <img src="https://user-images.githubusercontent.com/42646377/131240836-51cd5794-b146-41cd-b7bb-c75fe8bad1dc.png" width="15%"></img> 
