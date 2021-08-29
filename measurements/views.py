@@ -15,7 +15,6 @@ def get_measurements(request):
 def get_measurement(request, llave):
     measurement= get_measurement_pk(llave)
     measurement_one= serializers.serialize('json', [measurement,])
-
     return HttpResponse(measurement_one,content_type= 'application/json')
 
 
