@@ -2,24 +2,24 @@
 Taller 3, vistas django Arquisoft
 
 · Consultar la lista de medidas (measurements) en formato JSON <br>
-<img src="https://user-images.githubusercontent.com/42646377/131240689-4c4796e0-b0a5-4055-976e-527ca3b41104.png" width="100%"></img> 
+<img src="https://user-images.githubusercontent.com/42646377/131240689-4c4796e0-b0a5-4055-976e-527ca3b41104.png" width="85%"></img> 
 
 · Consultar una medida en formato JSON dado su identificador <br>
-<img src="https://user-images.githubusercontent.com/42646377/131240747-254fdeba-4c7e-4bde-94e0-a71fe7c58418.png" width="100%"></img> 
+<img src="https://user-images.githubusercontent.com/42646377/131240747-254fdeba-4c7e-4bde-94e0-a71fe7c58418.png" width="85%"></img> 
 
 · Borrar una medida dado su identificador 
- Lista de medidas actuales <br>
- <img src="https://user-images.githubusercontent.com/42646377/131240784-09a75a8c-b7ce-41bf-b48f-08b121daba14.png" width="100%"></img> 
+  Lista de medidas actuales <br>
+  <img src="https://user-images.githubusercontent.com/42646377/131240784-09a75a8c-b7ce-41bf-b48f-08b121daba14.png" width="85%"></img> 
     
- Eliminar la de la pk=9 <br>
- <img src="https://user-images.githubusercontent.com/42646377/131240836-51cd5794-b146-41cd-b7bb-c75fe8bad1dc.png" width="100%"></img> 
+  Eliminar la de la pk=9 <br>
+  <img src="https://user-images.githubusercontent.com/42646377/131240836-51cd5794-b146-41cd-b7bb-c75fe8bad1dc.png" width="85%"></img> 
     
-Lista de medidas después de eliminar <br>
-<img src="https://user-images.githubusercontent.com/42646377/131240849-b8ff12d7-a01e-4ec6-ab29-f4b814bffde7.png" width="15%"></img> 
+  Lista de medidas después de eliminar <br>
+  <img src="https://user-images.githubusercontent.com/42646377/131240849-b8ff12d7-a01e-4ec6-ab29-f4b814bffde7.png" width="85%"></img> 
     
- · Cambiar una medida dado su identificador
+· Cambiar una medida dado su identificador
   Medida con pk=3 actual <br>
-  <img src="https://user-images.githubusercontent.com/42646377/131240906-3bed0b84-fb47-4e27-959d-a49f002a0246.png" width="15%"></img> 
+  <img src="https://user-images.githubusercontent.com/42646377/131240906-3bed0b84-fb47-4e27-959d-a49f002a0246.png" width="85%"></img> 
     
 Editando la medida con pk=3 <br>
 <img src="https://user-images.githubusercontent.com/42646377/131240938-db9fa7db-480f-4805-a3fc-f348839331ec.png" width="15%"></img> 
