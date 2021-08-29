@@ -21,14 +21,14 @@ Taller 3, vistas django Arquisoft
   Medida con pk=3 actual <br>
   <img src="https://user-images.githubusercontent.com/42646377/131240906-3bed0b84-fb47-4e27-959d-a49f002a0246.png" width="85%"></img> 
     
-Editando la medida con pk=3 <br>
-<img src="https://user-images.githubusercontent.com/42646377/131240938-db9fa7db-480f-4805-a3fc-f348839331ec.png" width="15%"></img> 
+  Editando la medida con pk=3 <br>
+  <img src="https://user-images.githubusercontent.com/42646377/131240938-db9fa7db-480f-4805-a3fc-f348839331ec.png" width="85%"></img> 
     
-Cambios <br>
-<img src="https://user-images.githubusercontent.com/42646377/131240982-ba618bf8-7850-43d5-9839-de27b0479f6d.png" width="15%"></img> 
+  Cambios <br>
+  <img src="https://user-images.githubusercontent.com/42646377/131240982-ba618bf8-7850-43d5-9839-de27b0479f6d.png" width="85%"></img> 
     
-Después del submit <br>
-<img src="https://user-images.githubusercontent.com/42646377/131241007-6d4ec680-3a96-40d0-b783-ac0f2c12a6e9.png" width="15%"></img> 
+  Después del submit <br>
+  <img src="https://user-images.githubusercontent.com/42646377/131241007-6d4ec680-3a96-40d0-b783-ac0f2c12a6e9.png" width="85%"></img> 
     
  Lista de medidas final <br>
-  <img src="https://user-images.githubusercontent.com/42646377/131241048-fc6f05b1-9b6a-4c6c-b983-b174a9c83c42.png" width="15%"></img> 
+  <img src="https://user-images.githubusercontent.com/42646377/131241048-fc6f05b1-9b6a-4c6c-b983-b174a9c83c42.png" width="85%"></img> 
